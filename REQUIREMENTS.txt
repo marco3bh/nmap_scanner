@@ -1,0 +1,2 @@
+# No external dependencies needed
+# Only requires Python 3 and nmap
