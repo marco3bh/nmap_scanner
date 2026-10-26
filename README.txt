@@ -21,4 +21,5 @@ chmod +x nmap_scanner.py
 
 sudo python3 nmap_scanner.py *ip to scan
 
-example: sudo python3 nmap_scanner.py 192.000.000.000
+example: sudo python3 nmap_scanner.py 192.000.000.000    
+.
